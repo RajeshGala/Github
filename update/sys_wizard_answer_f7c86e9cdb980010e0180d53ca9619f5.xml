@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>New GitHUb</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>GitHUb</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Change Request" name="Change Request">8db4a378c611227401b96457a060e0f4</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-01 04:10:10</sys_created_on>
+        <sys_id>f7c86e9cdb980010e0180d53ca9619f5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>GitHUb</sys_name>
+        <sys_package display_value="GitHub" source="x_22240_github">e297aa1cdb980010e0180d53ca9619f1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GitHub">e297aa1cdb980010e0180d53ca9619f1</sys_scope>
+        <sys_update_name>sys_wizard_answer_f7c86e9cdb980010e0180d53ca9619f5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-01 04:10:10</sys_updated_on>
+        <table/>
+        <target_url>x_22240_github_github.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>

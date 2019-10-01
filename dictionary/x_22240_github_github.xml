@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="change_request" label="GitHUb" max_length="40" name="x_22240_github_github" text_index="true" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Testtext" max_length="40" name="testtext" type="string"/>
+    </element>
+</database>

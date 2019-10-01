@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="c249e250dbd80010e0180d53ca96194f" sys_domain="global" table="x_22240_github_github" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-10-01 04:12:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8249e250dbd80010e0180d53ca961957</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_22240_github_github" name="x_22240_github_github" sys_domain="global" view="765c1194dbd00010e0180d53ca9619e2">c249e250dbd80010e0180d53ca96194f</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_22240_github_github" sys_domain="global" view="765c1194dbd00010e0180d53ca9619e2">4249e250dbd80010e0180d53ca961951</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-10-01 04:12:15</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-10-01 04:12:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>da49e250dbd80010e0180d53ca961962</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_22240_github_github" name="x_22240_github_github" sys_domain="global" view="765c1194dbd00010e0180d53ca9619e2">c249e250dbd80010e0180d53ca96194f</sys_ui_form>
+            <sys_ui_section caption="Planning" display_value="Planning" name="x_22240_github_github" sys_domain="global" view="765c1194dbd00010e0180d53ca9619e2">5a49e250dbd80010e0180d53ca96195f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-10-01 04:12:15</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-10-01 04:12:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8649e250dbd80010e0180d53ca96195b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_22240_github_github" name="x_22240_github_github" sys_domain="global" view="765c1194dbd00010e0180d53ca9619e2">c249e250dbd80010e0180d53ca96194f</sys_ui_form>
+            <sys_ui_section caption="Schedule" display_value="Schedule" name="x_22240_github_github" sys_domain="global" view="765c1194dbd00010e0180d53ca9619e2">8649e250dbd80010e0180d53ca961957</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-10-01 04:12:15</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-10-01 04:12:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5649e250dbd80010e0180d53ca96195f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_22240_github_github" name="x_22240_github_github" sys_domain="global" view="765c1194dbd00010e0180d53ca9619e2">c249e250dbd80010e0180d53ca96194f</sys_ui_form>
+            <sys_ui_section caption="Notes" display_value="Notes" name="x_22240_github_github" sys_domain="global" view="765c1194dbd00010e0180d53ca9619e2">8a49e250dbd80010e0180d53ca96195b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-10-01 04:12:15</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-10-01 04:12:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5a49e250dbd80010e0180d53ca961965</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_22240_github_github" name="x_22240_github_github" sys_domain="global" view="765c1194dbd00010e0180d53ca9619e2">c249e250dbd80010e0180d53ca96194f</sys_ui_form>
+            <sys_ui_section caption="Closure Information" display_value="Closure Information" name="x_22240_github_github" sys_domain="global" view="765c1194dbd00010e0180d53ca9619e2">de49e250dbd80010e0180d53ca961962</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-10-01 04:12:15</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_22240_github_github</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-10-01 04:12:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c249e250dbd80010e0180d53ca96194f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_22240_github_github</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="GitHub" source="x_22240_github">e297aa1cdb980010e0180d53ca9619f1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="GitHub">e297aa1cdb980010e0180d53ca9619f1</sys_scope>
+            <sys_update_name>sys_ui_form_sections_c249e250dbd80010e0180d53ca96194f</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-10-01 04:12:15</sys_updated_on>
+            <sys_user/>
+            <view display_value="Workspace" name="workspace">765c1194dbd00010e0180d53ca9619e2</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="github" name="github">d609e2dcdb980010e0180d53ca9619bb</contains>
+        <role display_value="itil" name="itil">282bf1fac6112285017366cb5f867469</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-01 04:11:11</sys_created_on>
+        <sys_id>660926dcdb980010e0180d53ca9619d8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>github.itil</sys_name>
+        <sys_package display_value="GitHub" source="x_22240_github">e297aa1cdb980010e0180d53ca9619f1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GitHub">e297aa1cdb980010e0180d53ca9619f1</sys_scope>
+        <sys_update_name>sys_user_role_contains_660926dcdb980010e0180d53ca9619d8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-01 04:11:11</sys_updated_on>
+    </sys_user_role_contains>
+</record_update>

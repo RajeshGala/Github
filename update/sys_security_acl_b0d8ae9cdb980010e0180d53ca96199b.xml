@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description/>
+        <name>x_22240_github_github</name>
+        <operation display_value="read">read</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-01 04:10:14</sys_created_on>
+        <sys_id>b0d8ae9cdb980010e0180d53ca96199b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_22240_github_github</sys_name>
+        <sys_package display_value="GitHub" source="x_22240_github">e297aa1cdb980010e0180d53ca9619f1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GitHub">e297aa1cdb980010e0180d53ca9619f1</sys_scope>
+        <sys_update_name>sys_security_acl_b0d8ae9cdb980010e0180d53ca96199b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-01 04:10:14</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>
